@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="PhysicsEducation.FormHelper">
+    <Position X="8" Y="3.25" Width="4" />
+    <Members>
+      <Field Name="bt1" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="panel2" Hidden="true" />
+      <Field Name="richTextBox1" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAACACAAAAAAAAEAAQAQAQEAA=</HashCode>
+      <FileName>FormHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEducation.FormMenu">
+    <Position X="8" Y="1" Width="4" />
+    <Members>
+      <Field Name="buttonLab1" Hidden="true" />
+      <Field Name="buttonLab2" Hidden="true" />
+      <Field Name="buttonLab3" Hidden="true" />
+      <Field Name="buttonLab4" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="panel1" Hidden="true" />
+      <Field Name="panel2" Hidden="true" />
+      <Field Name="panel3" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AIAAAABABCAAABDwAACAAAASAAAAAAACAAAAAQAAAAI=</HashCode>
+      <FileName>Forms\FormMenu.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="theParent" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PhysicsEducation.Forms.FormLab4" Collapsed="true">
+    <Position X="6.25" Y="6.25" Width="2.5" />
+    <Members>
+      <Field Name="button1" Hidden="true" />
+      <Field Name="button2" Hidden="true" />
+      <Field Name="button3" Hidden="true" />
+      <Field Name="buttonReset" Hidden="true" />
+      <Field Name="buttonStart" Hidden="true" />
+      <Field Name="buttonStop" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="lab4" Hidden="true" />
+      <Field Name="lab4_1" Hidden="true" />
+      <Field Name="lab4_2" Hidden="true" />
+      <Field Name="label_timer" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="panel1" Hidden="true" />
+      <Field Name="panel2" Hidden="true" />
+      <Field Name="pictureBox1" Hidden="true" />
+      <Field Name="timer1" Hidden="true" />
+      <Field Name="trackBar_height" Hidden="true" />
+      <Field Name="trackBar_mass" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>CAWBKAACAi8gBVAAAIiBABACQBE4QAAJYIQCAUBhABI=</HashCode>
+      <FileName>Forms\FormLab4.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="maxwellswheel" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PhysicsEducation.Laboratory">
+    <Position X="3.5" Y="5.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Laboratory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEducation.FormMain">
+    <Position X="0.5" Y="1" Width="6.5" />
+    <Members>
+      <Field Name="button_Help" Hidden="true" />
+      <Field Name="button1" Hidden="true" />
+      <Field Name="button3" Hidden="true" />
+      <Field Name="button4" Hidden="true" />
+      <Field Name="buttonMenu" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="dataGridView" Hidden="true" />
+      <Field Name="dataGridView1" Hidden="true" />
+      <Field Name="dataGridView2" Hidden="true" />
+      <Field Name="dataGridView3" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="openFileDialog1" Hidden="true" />
+      <Field Name="panel2" Hidden="true" />
+      <Field Name="panelContent" Hidden="true" />
+      <Field Name="panelDoc" Hidden="true" />
+      <Field Name="panelInfo" Hidden="true" />
+      <Field Name="panelLogo" Hidden="true" />
+      <Field Name="panelMenu" Hidden="true" />
+      <Field Name="pdfViewer1" Hidden="true" />
+      <Field Name="saveFileDialog1" Hidden="true" />
+      <Field Name="tabControl1" Hidden="true" />
+      <Field Name="tabPage1" Hidden="true" />
+      <Field Name="tabPage2" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>DACICAgEACAAAFAAAICAQJAKAHkohIDQQAAQAQAlBAA=</HashCode>
+      <FileName>FormMain.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="activeForm" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PhysicsEducation.Forms.FormLab2" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>EASJCIgAACMABFAAAACQACACACAAABAECAECA0BABAg=</HashCode>
+      <FileName>Forms\FormLab2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEducation.Forms.FormLab1" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>QISJCAgAAiMABFAAAACAAAACAAAAABAGAAEDAwBABAA=</HashCode>
+      <FileName>Forms\FormLab1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEducation.Forms.FormLab3" Collapsed="true">
+    <Position X="6.25" Y="5.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AASBiIgAACMABFAAQACAAAACAAAAABAECAEDAwBAAAA=</HashCode>
+      <FileName>Forms\FormLab3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsEducation.Maxwellswheel" Collapsed="true">
+    <Position X="6.25" Y="7.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAABAAAAAAgAgAAAxAggBAAAxBQA=</HashCode>
+      <FileName>Forms\Maxwellswheel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
